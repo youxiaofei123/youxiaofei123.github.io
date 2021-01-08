@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youxiaofei123.github.io</id>
     <title>Gridea</title>
-    <updated>2021-01-08T14:10:06.190Z</updated>
+    <updated>2021-01-08T14:13:34.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youxiaofei123.github.io"/>
     <link rel="self" href="https://youxiaofei123.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://youxiaofei123.github.io/post/5-fen-zhong-rang-ni-tong-tou-ying-wen-zhong-de-biao-yu/">
         </link>
         <updated>2021-01-08T14:00:12.000Z</updated>
-        <content type="html"><![CDATA[<p>到底表语是个什么玩意？谓语和表语是有联系的吗？</p>
+        <content type="html"><![CDATA[<p><img src="https://youxiaofei123.github.io/post-images/1610115201072.jpg" alt="" loading="lazy"><br>
+到底表语是个什么玩意？谓语和表语是有联系的吗？</p>
 <p>众所周知，英语中谓语是提纲挈领的角色，把谓语搞通透了，基本上英语就会了80%。而偏偏句子成分分析的时候，除了我们耳熟能详挂在嘴边的主谓宾宾补外，还有一类非常特异独行横空出世的表语。</p>
 <p>我们知道，谓语一定是要有谓语动词的，要么是及物动词+宾语（有的动词还有本事再加一个宾语），要么是不及物动词，啥也不加，比如 i love u/u died，就完事了，非常通透。</p>
 <p>但是有一类动词，be啊、感觉的(sound/feel)、维持一副老样子的（remain/keep）、芭芭拉变变变的（grow），做不及物动词，啥也不加，就比较秃... 比如U is.或者U seem，你到底咋了，你是死没死 ，咱都不知道，就跟吃饭吃一半噎住了一样。</p>
@@ -25,38 +26,6 @@
 <p>这类弱鸡词，我们非常贴切的给他们取了个言简意赅的名字，叫做linking verb，中文叫做“系动词”，意为：连接。对，be/seem/appear/grow/keep只是个连接的工具人而已。be/seem/appear，主语能利用这类词去干事吗，不能。看上去、听上去，绝对不是主语自己去看 、去听。</p>
 <p>此外，英文语法里面谓语是Predicate，而补语是predicative ，前者是动词，后者更偏向动词predicate的形容词形式（此处仅为分析用，语法上是用作名词“补语”），由此可见，谓语是一个动词性质的词，要干事情，而表语带有形容词的意味，所以表语一定是带有修饰类属性的，而不是执行动作类（“施事”），而我们通常说的，表语是一种表示状态、性质啥的，就这么来的，这也解释了为什么动词能划分为action verb（动作词）和state verb（状态词）。</p>
 <p>总结：表语归根到底是因为有那么一类动词它压根就帮不了主语去做动作，但是他们可以做好用的工具人-连接，叫做linking verb，系动词，由此而构成了一类特殊的谓语形式---表语.</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://youxiaofei123.github.io/post/hello-gridea/</id>
-        <link href="https://youxiaofei123.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
